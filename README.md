@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rizki Oktavian
+# Rizki Oktavian
 
 🎓 **PhD in Nuclear Engineering and Computational Science**  
 🔬 **AI Engineer | Reactor Physicist | Certified AI Consultant**  
@@ -31,4 +31,4 @@ I specialize in integrating **machine learning** and **AI** into nuclear enginee
 
 ---
 
-Feel free to reach out if you're interested in collaborating on projects at the intersection of nuclear engineering and artificial intelligence!
+Feel free to reach out if you're interested in collaborating on projects!
